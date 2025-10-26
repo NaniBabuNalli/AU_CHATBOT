@@ -1,5 +1,5 @@
 const config = {
-    API_KEY: process.env.API_KEY || 'YOUR_LOCAL_API_KEY_HERE'
+    API_KEY: 'AIzaSyCAlLcYZ8hOjPTNjCclyV3t8mW0fgIne0g'
 };
 
 export default config;
